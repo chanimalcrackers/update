@@ -573,3 +573,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.15-00.45.54:828][400]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
 [2019.11.15-00.45.54:828][400]LogPackageName: SearchForPackageOnDisk took   0.115s, but failed to resolve S_ClothTarps_03.
 [2019.11.15-00.45.54:828][400]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2019.11.15-00.50.19:922][653]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.15-00.50.19:930][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.15-00.50.19:933][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.15-00.50.19:935][653]PIE: New page: PIE session: Untitled_1 (Nov 14, 2019, 12:50:19 PM)
+[2019.11.15-00.50.19:941][653]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.15-00.50.19:944][653]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.11.15-00.50.19:949][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004308s)
+[2019.11.15-00.50.19:951][653]LogAIModule: Creating AISystem for world Untitled_1
+[2019.11.15-00.50.19:951][653]LogPlayLevel: PIE: World Init took: (0.002472s)
+[2019.11.15-00.50.19:952][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007382s)
+[2019.11.15-00.50.19:975][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.15-00.50.19:988][653]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.15-00.50.20:015][653]LogInit: FAudioDevice initialized.
+[2019.11.15-00.50.20:030][653]LogLoad: Game class is 'GameModeBase'
+[2019.11.15-00.50.20:042][653]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.11.14-18.50.20
+[2019.11.15-00.50.20:044][653]LogWorld: Bringing up level for play took: 0.001799
+[2019.11.15-00.50.20:045][653]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.11.15-00.50.20:077][653]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.11.15-00.50.20:092][653]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.227
+[2019.11.15-00.50.20:092][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.15-00.50.26:590][423]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.15-00.50.26:593][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-00.50.26:593][423]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2019.11.15-00.50.26:594][423]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.15-00.50.26:602][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.15-00.50.26:602][423]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.15-00.50.26:638][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-00.50.26:646][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.11.15-00.50.26:684][425]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.11.15-00.50.28:081][585]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.15-00.50.40:598][ 24]LogSlate: Window 'Add Content to the Project' being destroyed
+[2019.11.15-00.51.02:035][778]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)

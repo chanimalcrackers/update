@@ -548,3 +548,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.15-00.18.43:039][720]LogDirectoryWatcher: A directory notification failed for 'C:/Users/David Chan/Documents/Unreal Projects/update/Update1/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2019.11.15-00.18.43:039][720]LogDirectoryWatcher: A directory notification failed for 'C:/Users/David Chan/Documents/Unreal Projects/update/Update1/Content/Developers/DavidChan/Collections/' because it could not be accessed. Aborting watch request...
 [2019.11.15-00.18.43:039][720]LogDirectoryWatcher: A directory notification failed for 'C:/Users/David Chan/Documents/Unreal Projects/update/Update1/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.11.15-00.26.06:961][999]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={AA1ACE86-43CF-24CE-F937-BEBAC704DA65}
+[2019.11.15-00.27.07:278][179]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={D4F63600-4CA0-9251-E705-569C18321902}
+[2019.11.15-00.41.52:356][821]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.15-00.42.01:962][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.15-00.42.03:224][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-00.45.54:146][397]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.15-00.45.54:147][397]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.15-00.45.54:258][397]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.15-00.45.54:258][397]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.15-00.45.54:258][397]LogPackageName: SearchForPackageOnDisk took   0.111s, but failed to resolve S_ClothTarps_03.
+[2019.11.15-00.45.54:258][397]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2019.11.15-00.45.54:497][399]LogPackageName: SearchForPackageOnDisk took   0.116s, but failed to resolve S_ClothTarps_03.
+[2019.11.15-00.45.54:497][399]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2019.11.15-00.45.54:497][399]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.15-00.45.54:497][399]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.15-00.45.54:497][399]LogPackageName: SearchForPackageOnDisk took   0.115s, but failed to resolve S_ClothTarps_03.
+[2019.11.15-00.45.54:497][399]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2019.11.15-00.45.54:497][399]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.15-00.45.54:497][399]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.15-00.45.54:828][400]LogPackageName: SearchForPackageOnDisk took   0.124s, but failed to resolve S_ClothTarps_03.
+[2019.11.15-00.45.54:828][400]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2019.11.15-00.45.54:828][400]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.15-00.45.54:828][400]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.15-00.45.54:828][400]LogPackageName: SearchForPackageOnDisk took   0.115s, but failed to resolve S_ClothTarps_03.
+[2019.11.15-00.45.54:828][400]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.

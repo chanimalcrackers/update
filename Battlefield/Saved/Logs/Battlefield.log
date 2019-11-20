@@ -2202,3 +2202,316 @@ No such host is known.
 TCP connect to perforce:1666 failed.
 No such host is known. 
 
+[2019.11.20-00.35.16:305][845]LogPackageName: Warning: Asset path "SM_Snow_Snow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.16:305][845]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.16:432][845]LogPackageName: Warning: Asset path "SM_Snow_Snow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.16:432][845]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.16:432][845]LogPackageName: SearchForPackageOnDisk took   0.127s to resolve SM_Snow_Snow.
+[2019.11.20-00.35.16:636][847]LogPackageName: SearchForPackageOnDisk took   0.123s to resolve SM_Snow_Snow.
+[2019.11.20-00.35.16:636][847]LogPackageName: Warning: Asset path "SM_Snow_Snow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.16:636][847]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.16:636][847]LogPackageName: SearchForPackageOnDisk took   0.114s to resolve SM_Snow_Snow.
+[2019.11.20-00.35.16:636][847]LogPackageName: Warning: Asset path "SM_Snow_Snow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.16:636][847]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.16:970][848]LogPackageName: SearchForPackageOnDisk took   0.114s to resolve SM_Snow_Snow.
+[2019.11.20-00.35.16:970][848]LogPackageName: Warning: Asset path "SM_Snow_Snow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.16:970][848]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.16:970][848]LogPackageName: SearchForPackageOnDisk took   0.115s to resolve SM_Snow_Snow.
+[2019.11.20-00.35.16:970][848]LogPackageName: Warning: Asset path "SM_Snow_Snow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.16:970][848]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.17:308][849]LogPackageName: SearchForPackageOnDisk took   0.123s to resolve SM_Snow_Snow.
+[2019.11.20-00.35.18:655][852]LogPackageName: Warning: Asset path "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.18:655][852]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.18:818][852]LogPackageName: Warning: Asset path "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.18:818][852]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.18:818][852]LogPackageName: SearchForPackageOnDisk took   0.163s, but failed to resolve Env_Ice_Foliage.
+[2019.11.20-00.35.18:818][852]LogPackageName: Warning: Asset path "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" could not be resolved.
+[2019.11.20-00.35.19:019][854]LogPackageName: SearchForPackageOnDisk took   0.150s, but failed to resolve Env_Ice_Foliage.
+[2019.11.20-00.35.19:019][854]LogPackageName: Warning: Asset path "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" could not be resolved.
+[2019.11.20-00.35.19:019][854]LogPackageName: Warning: Asset path "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.19:019][854]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.19:019][854]LogPackageName: SearchForPackageOnDisk took   0.146s, but failed to resolve Env_Ice_Foliage.
+[2019.11.20-00.35.19:019][854]LogPackageName: Warning: Asset path "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" could not be resolved.
+[2019.11.20-00.35.19:020][854]LogPackageName: Warning: Asset path "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.19:020][854]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.19:347][855]LogPackageName: SearchForPackageOnDisk took   0.182s, but failed to resolve Env_Ice_Foliage.
+[2019.11.20-00.35.19:347][855]LogPackageName: Warning: Asset path "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" could not be resolved.
+[2019.11.20-00.35.19:653][855]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.19:653][855]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.19:814][855]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.19:814][855]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.19:814][855]LogPackageName: SearchForPackageOnDisk took   0.160s, but failed to resolve JW_Ice_Mountain.
+[2019.11.20-00.35.19:814][855]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.11.20-00.35.20:021][856]LogPackageName: SearchForPackageOnDisk took   0.151s, but failed to resolve JW_Ice_Mountain.
+[2019.11.20-00.35.20:021][856]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.11.20-00.35.20:021][856]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.20:021][856]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.20:021][856]LogPackageName: SearchForPackageOnDisk took   0.128s, but failed to resolve JW_Ice_Mountain.
+[2019.11.20-00.35.20:021][856]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.11.20-00.35.20:021][856]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.20:021][856]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.20:021][856]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.20:021][856]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.20:153][856]LogPackageName: SearchForPackageOnDisk took   0.126s, but failed to resolve JW_Ice_Mountain.
+[2019.11.20-00.35.20:153][856]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.11.20-00.35.20:153][856]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.20:153][856]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.20:153][856]LogPackageName: SearchForPackageOnDisk took   0.131s, but failed to resolve Exo_Deco01.
+[2019.11.20-00.35.20:153][856]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
+[2019.11.20-00.35.20:326][857]LogPackageName: SearchForPackageOnDisk took   0.146s, but failed to resolve Exo_Deco01.
+[2019.11.20-00.35.20:326][857]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
+[2019.11.20-00.35.20:326][857]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.20:326][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.20:326][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.20:326][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.20:454][857]LogPackageName: SearchForPackageOnDisk took   0.137s, but failed to resolve Exo_Deco01.
+[2019.11.20-00.35.20:454][857]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
+[2019.11.20-00.35.20:454][857]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.20:454][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.20:454][857]LogPackageName: SearchForPackageOnDisk took   0.128s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.20:454][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" could not be resolved.
+[2019.11.20-00.35.20:454][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.20:454][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.20:687][857]LogPackageName: SearchForPackageOnDisk took   0.240s, but failed to resolve Exo_Deco01.
+[2019.11.20-00.35.20:687][857]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
+[2019.11.20-00.35.20:687][857]LogPackageName: SearchForPackageOnDisk took   0.234s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.20:687][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" could not be resolved.
+[2019.11.20-00.35.20:688][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.20:688][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.20:865][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.20:865][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.20:865][857]LogPackageName: SearchForPackageOnDisk took   0.171s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.20:865][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" could not be resolved.
+[2019.11.20-00.35.20:865][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.20:865][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.20:865][857]LogPackageName: SearchForPackageOnDisk took   0.176s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.20:865][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2019.11.20-00.35.20:865][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.20:865][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.21:289][857]LogPackageName: SearchForPackageOnDisk took   0.424s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.21:289][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2019.11.20-00.35.21:289][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.21:289][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.21:933][857]LogPackageName: SearchForPackageOnDisk took   0.426s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.21:933][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" could not be resolved.
+[2019.11.20-00.35.21:933][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.21:933][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.21:933][857]LogPackageName: SearchForPackageOnDisk took   0.642s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.21:933][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2019.11.20-00.35.21:933][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.21:933][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.21:933][857]LogPackageName: SearchForPackageOnDisk took   0.643s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.21:933][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2019.11.20-00.35.21:933][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.21:933][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.22:078][857]LogPackageName: SearchForPackageOnDisk took   0.144s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.22:078][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2019.11.20-00.35.22:078][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.22:078][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.22:078][857]LogPackageName: SearchForPackageOnDisk took   0.145s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.22:078][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" could not be resolved.
+[2019.11.20-00.35.22:078][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.22:078][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.22:238][857]LogPackageName: SearchForPackageOnDisk took   0.139s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.22:238][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2019.11.20-00.35.22:238][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.22:238][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.22:238][857]LogPackageName: SearchForPackageOnDisk took   0.159s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.22:238][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" could not be resolved.
+[2019.11.20-00.35.22:238][857]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.22:239][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.22:416][857]LogPackageName: SearchForPackageOnDisk took   0.126s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.22:416][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" could not be resolved.
+[2019.11.20-00.35.22:416][857]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.22:416][857]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.22:416][857]LogPackageName: SearchForPackageOnDisk took   0.178s, but failed to resolve Env_Ice_RuinedWalls001.
+[2019.11.20-00.35.22:416][857]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" could not be resolved.
+[2019.11.20-00.35.22:767][860]LogPackageName: SearchForPackageOnDisk took   0.125s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.22:767][860]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" could not be resolved.
+[2019.11.20-00.35.22:767][860]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.22:767][860]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.22:767][860]LogPackageName: SearchForPackageOnDisk took   0.107s, but failed to resolve Env_Ice_RuinedWalls001.
+[2019.11.20-00.35.22:767][860]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" could not be resolved.
+[2019.11.20-00.35.22:767][860]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.22:767][860]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.22:767][860]LogPackageName: SearchForPackageOnDisk took   0.123s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.22:767][860]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" could not be resolved.
+[2019.11.20-00.35.22:767][860]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.22:767][860]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.23:127][861]LogPackageName: SearchForPackageOnDisk took   0.119s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.23:127][861]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" could not be resolved.
+[2019.11.20-00.35.23:127][861]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.23:127][861]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.23:127][861]LogPackageName: SearchForPackageOnDisk took   0.151s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.23:127][861]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2019.11.20-00.35.23:127][861]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.23:127][861]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.23:127][861]LogPackageName: SearchForPackageOnDisk took   0.138s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.23:127][861]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2019.11.20-00.35.23:127][861]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.23:127][861]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.24:101][863]LogPackageName: SearchForPackageOnDisk took   0.334s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.24:101][863]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2019.11.20-00.35.24:101][863]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.24:101][863]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.24:112][864]LogPackageName: SearchForPackageOnDisk took   0.669s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.24:112][864]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" could not be resolved.
+[2019.11.20-00.35.24:112][864]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.24:112][864]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.24:465][865]LogPackageName: SearchForPackageOnDisk took   0.212s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.24:465][865]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" could not be resolved.
+[2019.11.20-00.35.24:465][865]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.24:465][865]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.24:800][866]LogPackageName: SearchForPackageOnDisk took   0.149s, but failed to resolve Env_Ice_RuinedWalls001.
+[2019.11.20-00.35.24:800][866]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" could not be resolved.
+[2019.11.20-00.35.24:800][866]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.24:800][866]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.24:800][866]LogPackageName: SearchForPackageOnDisk took   0.125s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.24:800][866]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" could not be resolved.
+[2019.11.20-00.35.24:800][866]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.24:801][866]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.24:801][866]LogPackageName: SearchForPackageOnDisk took   0.115s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.24:801][866]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" could not be resolved.
+[2019.11.20-00.35.24:801][866]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.24:801][866]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.25:124][867]LogPackageName: SearchForPackageOnDisk took   0.120s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.25:124][867]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2019.11.20-00.35.25:124][867]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.25:124][867]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.25:124][867]LogPackageName: SearchForPackageOnDisk took   0.129s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.25:124][867]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2019.11.20-00.35.25:124][867]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.25:124][867]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.25:124][867]LogPackageName: SearchForPackageOnDisk took   0.133s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.25:124][867]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2019.11.20-00.35.25:124][867]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.25:124][867]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.25:463][868]LogPackageName: SearchForPackageOnDisk took   0.127s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.25:463][868]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" could not be resolved.
+[2019.11.20-00.35.25:463][868]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.25:463][868]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.25:463][868]LogPackageName: SearchForPackageOnDisk took   0.125s, but failed to resolve Env_Ice_Rocky.
+[2019.11.20-00.35.25:463][868]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" could not be resolved.
+[2019.11.20-00.35.25:463][868]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.25:464][868]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.25:808][869]LogPackageName: SearchForPackageOnDisk took   0.140s, but failed to resolve Env_Ice_RuinedWalls001.
+[2019.11.20-00.35.25:808][869]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" could not be resolved.
+[2019.11.20-00.35.28:150][875]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.28:150][875]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.28:298][875]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.28:298][875]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.28:298][875]LogPackageName: SearchForPackageOnDisk took   0.147s, but failed to resolve m_FogSheet_02.
+[2019.11.20-00.35.28:298][875]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2019.11.20-00.35.28:494][877]LogPackageName: SearchForPackageOnDisk took   0.142s, but failed to resolve m_FogSheet_02.
+[2019.11.20-00.35.28:494][877]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2019.11.20-00.35.28:494][877]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.28:494][877]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.28:828][878]LogPackageName: SearchForPackageOnDisk took   0.128s, but failed to resolve m_FogSheet_02.
+[2019.11.20-00.35.28:828][878]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2019.11.20-00.35.28:828][878]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.28:828][878]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.28:828][878]LogPackageName: SearchForPackageOnDisk took   0.152s, but failed to resolve m_FogSheet_02.
+[2019.11.20-00.35.28:828][878]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2019.11.20-00.35.29:481][879]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.29:481][879]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.29:632][879]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.29:632][879]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.29:632][879]LogPackageName: SearchForPackageOnDisk took   0.151s, but failed to resolve Env_ALL_Artifacts.
+[2019.11.20-00.35.29:632][879]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2019.11.20-00.35.29:633][879]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.29:633][879]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.29:787][879]LogPackageName: SearchForPackageOnDisk took   0.153s, but failed to resolve Env_ALL_Artifacts.
+[2019.11.20-00.35.29:787][879]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2019.11.20-00.35.29:787][879]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.29:787][879]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.29:787][879]LogPackageName: SearchForPackageOnDisk took   0.155s, but failed to resolve S_ClothTarps_03.
+[2019.11.20-00.35.29:787][879]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2019.11.20-00.35.29:837][881]LogPackageName: SearchForPackageOnDisk took   0.148s, but failed to resolve S_ClothTarps_03.
+[2019.11.20-00.35.29:837][881]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2019.11.20-00.35.29:837][881]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.29:837][881]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.30:152][882]LogPackageName: SearchForPackageOnDisk took   0.133s, but failed to resolve Env_ALL_Artifacts.
+[2019.11.20-00.35.30:152][882]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2019.11.20-00.35.30:152][882]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.30:152][882]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.30:152][882]LogPackageName: SearchForPackageOnDisk took   0.122s, but failed to resolve Env_ALL_Artifacts.
+[2019.11.20-00.35.30:152][882]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2019.11.20-00.35.30:152][882]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.30:152][882]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.30:482][883]LogPackageName: SearchForPackageOnDisk took   0.128s, but failed to resolve S_ClothTarps_03.
+[2019.11.20-00.35.30:482][883]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2019.11.20-00.35.30:482][883]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.30:482][883]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.30:482][883]LogPackageName: SearchForPackageOnDisk took   0.125s, but failed to resolve S_ClothTarps_03.
+[2019.11.20-00.35.30:482][883]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2019.11.20-00.35.30:482][883]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.30:482][883]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.30:482][883]LogPackageName: SearchForPackageOnDisk took   0.145s, but failed to resolve Env_ALL_Artifacts.
+[2019.11.20-00.35.30:482][883]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2019.11.20-00.35.30:483][883]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.20-00.35.30:483][883]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.20-00.35.30:816][884]LogPackageName: SearchForPackageOnDisk took   0.143s, but failed to resolve S_ClothTarps_03.
+[2019.11.20-00.35.30:816][884]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2019.11.20-00.35.38:521][906]LogDirectoryWatcher: A directory notification failed for 'C:/Users/David Chan/Documents/Unreal Projects/update/Battlefield/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2019.11.20-00.35.38:521][906]LogDirectoryWatcher: A directory notification failed for 'C:/Users/David Chan/Documents/Unreal Projects/update/Battlefield/Content/Developers/DavidChan/Collections/' because it could not be accessed. Aborting watch request...
+[2019.11.20-00.35.38:861][907]LogDirectoryWatcher: A directory notification failed for 'C:/Users/David Chan/Documents/Unreal Projects/update/Battlefield/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.11.20-00.40.16:502][644]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.40.16:502][644]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.40.26:176][798]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.40.26:177][798]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.40.28:905][121]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.40.28:905][121]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.40.33:046][617]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.40.33:046][617]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.40.36:858][ 70]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.40.36:859][ 70]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.40.39:573][395]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.40.39:573][395]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.40.42:346][716]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.40.42:346][716]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.40.48:368][187]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.40.48:368][187]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.40.50:012][293]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.40.50:012][293]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.40.54:034][305]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.40.54:034][305]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.40.54:367][306]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.40.54:367][306]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.40.55:038][308]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.40.55:038][308]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+

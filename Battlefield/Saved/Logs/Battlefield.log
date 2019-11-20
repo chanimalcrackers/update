@@ -2515,3 +2515,72 @@ No such host is known.
 TCP connect to perforce:1666 failed.
 No such host is known. 
 
+[2019.11.20-00.53.13:933][ 98]LogSlate: Window 'New Level' being destroyed
+[2019.11.20-00.53.13:960][ 98]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.20-00.53.13:974][ 98]LogSlate: Took 0.001095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.20-00.53.13:986][ 98]LightingResults: New page: Lighting Build
+[2019.11.20-00.53.13:987][ 98]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.11.20-00.53.13:990][ 98]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-00.53.13:992][ 98]MapCheck: New page: Map Check
+[2019.11.20-00.53.13:992][ 98]LightingResults: New page: Lighting Build
+[2019.11.20-00.53.14:028][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.11.20-00.53.14:083][ 98]LogAIModule: Creating AISystem for world Untitled_1
+[2019.11.20-00.53.14:099][ 98]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.20-00.53.14:123][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.11.20-00.53.14:132][ 98]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.20-00.53.14:132][ 98]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2019.11.20-00.53.14:132][ 98]LogFileHelpers: Loading map 'Template_Default' took 0.176
+[2019.11.20-00.53.26:014][532]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.53.26:014][532]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.53.34:228][532]LogSlate: Window 'Save Level As' being destroyed
+[2019.11.20-00.53.34:294][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.11.20-00.53.34:296][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BMap" FILE="../../../../../../Users/David Chan/Documents/Unreal Projects/update/Battlefield/Content/BMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.20-00.53.34:322][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.11.20-00.53.34:486][532]LogSavePackage: Moving '../../../../../../Users/David Chan/Documents/Unreal Projects/update/Battlefield/Saved/BMapBB349EF8407B0469BA883A89A9DE39B2.tmp' to '../../../../../../Users/David Chan/Documents/Unreal Projects/update/Battlefield/Content/BMap.umap'
+[2019.11.20-00.53.39:058][532]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.53.39:058][532]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.53.43:629][532]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.53.43:629][532]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.53.43:630][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BMap_BuiltData" FILE="../../../../../../Users/David Chan/Documents/Unreal Projects/update/Battlefield/Content/BMap_BuiltData.uasset" SILENT=true
+[2019.11.20-00.53.43:653][532]LogSavePackage: Moving '../../../../../../Users/David Chan/Documents/Unreal Projects/update/Battlefield/Saved/BMap_BuiltData66F210F2421E61FF67516380254E06C1.tmp' to '../../../../../../Users/David Chan/Documents/Unreal Projects/update/Battlefield/Content/BMap_BuiltData.uasset'
+[2019.11.20-00.53.48:195][532]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.53.48:195][532]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.53.48:206][532]LogFileHelpers: Saving map 'BMap' took 13.958
+[2019.11.20-00.53.52:843][811]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.53.52:843][811]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.53.54:461][908]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.53.54:461][908]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.57.23:663][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.20-00.57.25:185][651]Cmd: DELETE
+[2019.11.20-00.57.25:186][651]Cmd: ACTOR DELETE
+[2019.11.20-00.57.25:205][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.20-00.57.25:229][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.11.20-00.57.25:230][651]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.11.20-00.57.30:089][733]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.11.20-00.57.30:089][733]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2019.11.20-00.59.02:648][  8]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.20-01.03.21:672][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.20-01.03.21:790][791]LogSavePackage: Moving '../../../../../../Users/David Chan/Documents/Unreal Projects/update/Battlefield/Saved/BMap_Auto1F81A84224F86EF152F8F2AA329B2F38C.tmp' to '../../../../../../Users/David Chan/Documents/Unreal Projects/update/Battlefield/Saved/Autosaves/Game/BMap_Auto1.umap'
+[2019.11.20-01.03.21:793][791]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BMap' took 0.142
+[2019.11.20-01.03.21:793][791]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.142
